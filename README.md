@@ -1,8 +1,10 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 <h1 align="center">Hi 👋, I'm Kalindu Suraj</h1>
+
 <h3 align="center">IT Student | Exploring the Boundless World of Technology </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalindusuraj&label=Profile%20views&color=0e75b6&style=flat" alt="kalindusuraj" /> </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <table align="center">
 <tr border="none">
@@ -25,7 +27,9 @@
 </tr>
 </table>
 
----
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -45,7 +49,8 @@
 </table>
 
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kalindu_suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalindu_suraj" height="30" width="40" /></a>
