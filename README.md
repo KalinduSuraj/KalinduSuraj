@@ -13,7 +13,7 @@
   - 🌱 I’m currently learning **Java and Java script**
   - 🧑‍🎓 I’m an Undergraduate at ***NIBM***
   - 💬 Ask me about **C**
-  - 📫 How to reach me **mksuraj0316@gmail.com**
+  - 📫 How to reach me **mwkalindusuraj@gmail.com**
   
   - ⚡ Fun fact **Call me as MK**
 
