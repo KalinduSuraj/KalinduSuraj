@@ -1,78 +1,117 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
-<h1 align="center">Hi 👋, I'm Kalindu Suraj</h1>
-
-<h3 align="center">IT Student | Exploring the Boundless World of Technology </h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalindusuraj&label=Profile%20views&color=0e75b6&style=flat" alt="kalindusuraj" /> </p>
-<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-  - 🌱 I’m currently learning **Java and Java script**
-  - 🧑‍🎓 I’m an Undergraduate at ***NIBM***
-  - 💬 Ask me about **C**
-  - 📫 How to reach me **mwkalindusuraj@gmail.com**
-  
-  - ⚡ Fun fact **Call me as MK**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="380" height="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-
-
-  </td>
-</tr>
-</table>
-
-
-<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalindusuraj&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindusuraj&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalindusuraj&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
-
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/kalindu_suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalindu_suraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kalindu-suraj-1b0785280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalindu-suraj-1b0785280" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22318364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22318364" height="30" width="40" /></a>
-<a href="https://fb.com/kalindusurj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalindusurj" height="30" width="40" /></a>
-<a href="https://instagram.com/kalindu_suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalindu_suraj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kalindu suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kalindu suraj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mksuraj0316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mksuraj0316" height="30" width="40" /></a>
+  <!-- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" /> -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390px" />
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="390px" />
 </p>
-<br>
 
-<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br>
+<h1 align="center">Hi there 👋, I'm Kalindu Suraj</h1>
+<h3 align="center">🚀 Software Engineering Student | Passionate about Full Stack & DevOps</h3>
 
-<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/kalindusuraj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center">
+  <a href="https://github.com/kalindusuraj">
+    <img src="https://komarev.com/ghpvc/?username=kalindusuraj&label=Profile%20views&color=0e75b6&style=flat" alt="kalindusuraj" />
+  </a>
+</p>
 
+---
 
+<table>
+<tr>
+  <td width="60%" valign="top">
+  
+  <h3>🎯 About Me</h3>
 
-<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  - 🎓 2nd Year Software Engineering Student at <strong>NIBM</strong>  
+  - 🔭 Currently working on <strong>MERN stack</strong> & <strong>DevOps</strong> projects  
+  - 🌱 Learning <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>CI/CD pipelines</strong>  
+  - 💻 Passionate about building full-stack web apps and exploring cloud technologies  
+  - 📫 Reach me at: <strong>mwkalindusuraj@gmail.com</strong>  
+  - 🧑‍💻 Fun fact: Call me <strong>MK</strong>  
+  
+  </td>
 
+  <td width="40%" valign="top">
+
+  <h3>🔧 Tech Stack</h3>
+
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
+  <br><strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-AJAX-black?style=flat" />
+  <br><strong>Backend:</strong><br>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" />
+  <br><strong>Database & Cloud:</strong><br>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws" />
+  <br><strong>Tools:</strong><br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code" />
+
+  </td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalindusuraj&theme=tokyonight&show_icons=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalindusuraj&theme=tokyonight&hide_border=false" width="49%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalindusuraj&layout=compact&theme=tokyonight" width="60%" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🚍 [EzBus - Expressway Bus Ticket Booking App](https://github.com/KalinduSuraj)  
+  A complete web-based booking system using PHP, MySQL, AJAX, Bootstrap
+
+- 🎟️ Film Ticket Booking Platform  
+  Simple and functional web app using OOP in PHP, MySQL
+
+- ☁️ Event Management System (DevOps Role)  
+  Implemented CI/CD using GitHub Actions and deployed to AWS EC2 & RDS
+
+---
+
+### 🧾 Certifications
+
+- [☁️ IBM DevOps & Software Engineering](https://www.credly.com/organizations/ibm/badges)
+- [🌐 Web Design - University of Moratuwa](https://badgr.com/public/assertions/d2fwR8j6QMKI0PEDenYe6Q)
+- [📊 SQL (Advanced) – HackerRank](https://www.hackerrank.com/certificates/472e99d12362)
+- [📜 JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/5ffcad2b7b0a)
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:mwkalindusuraj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/94783031728" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kalindu-suraj-1b0785280"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/KalinduSuraj"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
+  <a href="https://kalindusuraj.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium"/></a>
+  <a href="https://www.hackerrank.com/mksuraj0316"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank"/></a>
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kalindusuraj">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="Buy Me A Coffee">
+  </a>
+</p>
