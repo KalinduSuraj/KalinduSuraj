@@ -163,19 +163,6 @@ AWS
 
 <td width="33%" align="center">
 
-### 🗣 TalkTrail
-
-Interactive platform designed to help kids learn English as a second language.
-
-Features
-Gamified lessons
-Pronunciation practice
-Interactive learning
-
-</td>
-
-<td width="33%" align="center">
-
 ### ☁️ Event Management System
 
 DevOps focused deployment project.
